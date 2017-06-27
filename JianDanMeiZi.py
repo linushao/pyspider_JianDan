@@ -4,8 +4,6 @@
 # Project: jiandan
 
 from pyspider.libs.base_handler import *
-import urllib
-import re
 
 DIR_PATH = '/Users/acewei/pythonDemo/jiandan'
 
